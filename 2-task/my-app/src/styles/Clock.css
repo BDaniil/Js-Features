@@ -1,0 +1,39 @@
+
+body{
+    background-color: wheat;
+}
+.Clock{  
+    text-align: center;
+    font-size: large;
+}
+
+.Clock h1{
+    border: 0.04em solid black;
+    width: 10em;
+    margin: 40vh auto 0 auto;
+    border-radius: 0.2em;
+    padding: 0.4em 0;
+    background-color: rgb(62, 175, 255);
+    box-shadow: rgb(27, 24, 24) 0 0.05em 0.2;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.Clock select{
+    border: 0.04em solid black;
+    width: 10em;
+    margin: 1vh auto 0 auto;
+    border-radius: 0.2em;
+    padding: 0.4em 0;
+    background-color: rgb(62, 175, 255);
+    box-shadow: rgb(27, 24, 24) 0 0.05em 0.2;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+
+.Clock select option{   
+    background-color: rgb(62, 175, 255);
+}
